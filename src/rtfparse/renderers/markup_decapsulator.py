@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+# TODO: Test and fix this -- incomplete -- AK
 import io
 import logging
 from rtfparse import entities
